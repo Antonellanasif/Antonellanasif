@@ -1,4 +1,4 @@
-## Oiii eu sou a Antonella Naif, Desenvolvedora full stack!
+## Oiii eu sou a Antonella Nasif, Desenvolvedora Júnior (Front-End / Back-End / Full-Stack) | React • Node.js • JavaScript • SQLite • MongoDB | Construindo Interfaces e Sistemas Eficientes
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Anto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
